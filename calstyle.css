@@ -1,0 +1,159 @@
+body{
+    background-color: skyblue;
+}
+h1{
+    text-align: center;
+    
+}
+button{
+    background-color:white;
+    border-radius: 20px;
+    border:none;
+    padding:5px 10px;
+    font-size:xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+#parent
+{
+    background-color:gray;
+    margin:40px 450px;
+   
+    padding:30px;
+    width: 25%;
+    height: 350px;
+    border:1px solid rgb(7, 7, 7);
+    position:relative;
+    border-radius:10px;
+    display:grid;
+    grid-template-columns: 80px 80px 80px 80px;
+    column-gap: 2px;
+}
+.child
+{
+    padding:13px 25px;
+    border:2px solid black;
+    border-radius: 10px;
+    font-size: 25px;
+    margin:5px ;
+    
+}
+#cal1
+{
+    grid-column-start:1 ;
+    grid-column-end:5 ;
+    padding:20px;
+    background-color: white;
+}
+#cal2
+{
+    background-color: rgb(224, 240, 11);
+    width:10px;
+    height: 15px;
+    font-size:x-large;
+    
+}
+#cal3
+{
+    background-color: rgb(224, 240, 11);
+    width:10px;
+    height: 15px;
+    font-size:x-large;
+}
+#cal4
+{
+    background-color: rgb(224, 240, 11);
+    width:10px;
+    height: 15px;
+    font-size:x-large;
+}
+#cal5
+{
+    background-color:red;
+    width:10px;
+    height: 15px;
+    font-size:x-large;
+}
+#cal6
+{
+    background-color: rgb(224, 240, 11);
+    width:10px;
+    height: 15px;
+    font-size:x-large;
+}
+#cal7
+{
+    background-color:rgb(224, 240, 11);
+    width:10px;
+    height: 15px;
+    font-size:x-large;
+}
+#cal8
+{
+    background-color:rgb(224, 240, 11);
+    width:10px;
+    height: 15px;
+    font-size:x-large;
+}
+#cal9
+{
+    background-color:red;
+    width:10px;
+    height: 15px;
+    font-size:x-large;
+}
+#cal10
+{
+    background-color: rgb(224, 240, 11);
+    width:10px;
+    height: 15px;
+    font-size:x-large;
+}
+#cal11
+{
+    background-color: rgb(224, 240, 11);
+    width:10px;
+    height: 15px;
+    font-size:x-large;
+}
+#cal12
+{
+    background-color: rgb(224, 240, 11);
+    width:10px;
+    height: 15px;
+    font-size:x-large;
+}
+#cal13
+{
+    background-color: red;
+    width:10px;
+    height: 15px;
+    font-size:x-large;
+}
+#cal14
+{
+    background-color: red;
+    width:10px;
+    height: 15px;
+    font-size:x-large;
+}
+#cal15
+{
+    background-color:rgb(224, 240, 11);
+    width:10px;
+    height: 15px;
+    font-size:x-large;
+}
+#cal16
+{
+    background-color: red;
+    width:10px;
+    height: 15px;
+    font-size:x-large;
+}
+#cal17
+{
+    background-color: red;
+    width:10px;
+    height: 15px;
+    font-size:x-large;
+}
